@@ -1,4 +1,4 @@
-# Advanced Machine Learning Specialization
+# [Advanced Machine Learning Specialization](https://www.coursera.org/specializations/aml)
 
 ## How to run
 
